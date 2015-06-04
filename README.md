@@ -1,3 +1,20 @@
+#THE SAME QUESTION, by JOHN HOLLANDER
+It is all here. It is all with us:
+Pools of water-well, we have our eyes.
+Mountains-well, a man is most human 
+Standing up. Broad meadows-well, we sleep.
+Rivers-we do run on, but can come 
+To join another. Oceans-we can 
+Remember mothers of our mothers.
+Forests-we wander darkly in some
+Bright plaza of another; but night
+Falls. Sands-seconds of arc in the sets
+Of circles nested between our eye
+And the rhyming horizon. Deluge-
+The first tear of sweat our terror weeps.
+Landslide-hear the pestle of thighbone
+Grinding away its mortar socket.
+
 #Practical Numerical Methods with Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
